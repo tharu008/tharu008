@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 # Hi, I'm Dahami 👋
 <br />
 
-A final year Computer Science Undergraduate. An AI and ML enthusiast.
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.gifer.com/JXA0.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tharuka-senevirathne/">
@@ -36,6 +33,10 @@ A final year Computer Science Undergraduate. An AI and ML enthusiast.
   </a>
 </div>
 <br><br>
+
+**About Me**
+- Final Year Computer Science Undergraduate 👩🏻‍🎓
+- An AI and ML enthusiast. 🤖
 
 ![Dahami's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharu008&theme=dracula\&rank_icon=percentile)
 ![Dahami's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tharu008&layout=compact&theme=dracula)
