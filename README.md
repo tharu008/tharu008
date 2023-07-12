@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,express,github,html,idea,java,js,linux,mongodb,mysql,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,html,css,js,java,discord,github,idea,linux,mongodb,mysql,postman,py,vscode,stackoverflow&perline=14" />
   </a>
 </p>
