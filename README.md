@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Dahami 👋
+# Hi, I'm Dahami Tharuka 👋
 <br />
 
 <div id="header" align="center">
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=tharu008&style=flat-square&color=blue" alt=""/>
 </div>
 
 **About Me**
