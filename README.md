@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Final Year Computer Science Undergraduate 👩🏻‍🎓
 - An AI and ML enthusiast. 🤖
 
-<!--- stats & Trophy (start) -->
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -43,20 +43,12 @@ Here are some ideas to get you started:
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tharu008&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharu008&layout=compact&langs_count=8&theme=dracula"/>  
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<!--<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=tharu008&theme=dracula&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
