@@ -13,22 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Dahami Tharuka 👋
-<br />
+<p>
+  <h1 align="center"><b>Hey there, I'm Dahami 👋</b></h1>
+</p>
+
+- 😄 A final year computer Science Undergraduate at NSBM 
+- 🔭 I’m currently working on my final-year research project
+- 🤖 An AI and ML enthusiast. 🤖
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/tharuka-senevirathne/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+
+
+### Technologies I'm Familiar with 🛠
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=67C9FA)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-05122A.svg?style=flat&logo=pycharm&logoColor=yellow)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/JXA0.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tharuka-senevirathne/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
+  <img src="" width="100%"/>
 </div>
 
-**About Me**
-- Final Year Computer Science Undergraduate 👩🏻‍🎓
-- An AI and ML enthusiast. 🤖
+
 
 
 <p align="center">
@@ -50,15 +70,3 @@ Here are some ideas to get you started:
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,html,css,js,java,discord,github,idea,linux,mongodb,mysql,postman,py,vscode,stackoverflow&perline=14" />
-  </a>
-</p>
