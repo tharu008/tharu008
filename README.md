@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <h1 align="center"><b>Hey there, I'm Dahami 👋</b></h1>
+  <h1 align="center"><b>Hey there, I'm Dahami 👋 </b></h1>
 </p>
+
+
+<div id="header" align="center">
+  <img align="right" alt="GIF" src="https://media.tenor.com/6Bn5uMr0oGQAAAAd/genshin-impact.gif" width="250"/>
+  
+</div>
+
 
 - 😄 A final year computer Science Undergraduate at NSBM 
 - 🔭 I’m currently working on my final-year research project
@@ -41,12 +48,6 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=67C9FA)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A.svg?style=flat&logo=pycharm&logoColor=yellow)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
-<div id="header" align="center">
-  <img src="" width="100%"/>
-</div>
 
 
 
