@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=67C9FA)&nbsp;
