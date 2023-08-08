@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img align="right" alt="GIF" src="https://media.tenor.com/6Bn5uMr0oGQAAAAd/genshin-impact.gif" width="250"/>
+  <img align="right" alt="GIF" src="https://media.tenor.com/6Bn5uMr0oGQAAAAd/genshin-impact.gif" width="200"/>
   
 </div>
 
