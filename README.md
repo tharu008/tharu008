@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my final-year research project
 - 🤖 An AI/ML enthusiast.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/tharuka-senevirathne/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=tharu008)
 
 
 
