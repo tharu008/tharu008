@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </td>
 
 <td width="50%" align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharu008&layout=compact&langs_count=8&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharu008&layout=compact&langs_count=8&theme=dracula&&hide=jupyter%20notebook"/>  
 </td>
 </tr>
 </table>
