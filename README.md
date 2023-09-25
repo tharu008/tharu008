@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=67C9FA)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A.svg?style=flat&logo=pycharm&logoColor=yellow)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NetLogo](https://img.shields.io/badge/NetLogo-05122A?style=flat&logo=netlogo)&nbsp;
 
 
 
